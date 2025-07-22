@@ -10,7 +10,7 @@ This repository contains ROS  workspace that :
 
 ## livox_ros_driver
 
-```
+```shell
 Get livox_ros_driver from GitHub :
 
 git clone https://github.com/Livox-SDK/livox_ros_driver.git ws_livox/src
