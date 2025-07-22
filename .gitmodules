@@ -1,0 +1,6 @@
+[submodule "src/faster-lio"]
+	path = src/faster-lio
+	url = https://github.com/gaoxiang12/faster-lio
+[submodule "src/faster-lio-to-hdmapping/src/3rdparty/LASzip"]
+	path = src/faster-lio-to-hdmapping/src/3rdparty/LASzip
+	url = https://github.com/LASzip/LASzip.git
