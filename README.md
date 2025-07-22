@@ -14,7 +14,7 @@ Clone the repo
 ```shell
 mkdir -p /test_ws/src
 cd /test_ws/src
-git clone https://github.com/gaoxiang12/faster-lio --recursive
+git clone https://github.com/marcinmatecki/Faster-LIO-to-hdmapping.git --recursive
 cd ..
 catkin_make
 ```
