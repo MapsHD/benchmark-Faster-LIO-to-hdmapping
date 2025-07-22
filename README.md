@@ -8,6 +8,19 @@ This repository contains ROS  workspace that :
   - a converter that listens to topics advertised from odometry node and save data in format compatible with HDMapping.
 
 
+## livox_ros_driver
+
+Get livox_ros_driver from GitHub :
+
+git clone https://github.com/Livox-SDK/livox_ros_driver.git ws_livox/src
+
+cd ws_livox
+catkin_make
+
+Use the following command to update the current ROS package environment :
+
+source ./devel/setup.sh
+
 ## Building
 
 Clone the repo
