@@ -65,7 +65,7 @@ rosrun faster-lio-to-hdmapping listener <recorded_bag> <output_dir>
 Download the dataset from [NTU-VIRAL](https://ntu-aris.github.io/ntu_viral_dataset/)
 For this example, download eee_03.
 
-```
+
 ## Modify
 ```shell
 src/Faster-LIO-to-HDMapping/src/faster-lio/config/ouster64.yaml
