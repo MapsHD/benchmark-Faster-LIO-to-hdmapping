@@ -23,7 +23,7 @@ catkin_make
 Use the following command to update the current ROS package environment :
 
 source ./devel/setup.sh
-
+```
 ## Building
 
 Clone the repo
